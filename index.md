@@ -1,9 +1,6 @@
 ## NEW IP and Beyond
  Research, Innovation and Experimentation of Internet Protocol Evolutions for Future and Emerging Applications
 
-![image](https://user-images.githubusercontent.com/6585533/163276688-9b226baf-961a-4321-9cb0-95acffa11e20.png)
-
-
 ### CALL FOR PAPERS
 
 #### Introduction
@@ -53,11 +50,15 @@ Submissions must be original, unpublished work, and not under consideration at a
 
 Please submit your paper via *TODO*
 
-![image](https://user-images.githubusercontent.com/6585533/163277206-1f287a3a-81ce-4506-940a-3e27dd297c71.png)
+
+#### Main Organizers: General Co-Chairs
+-	Filip De Turck (Ghent University, Belgium)
+-	Kiran Makhijani (Futurewei, USA)
+
+#### Workshop PC Co-Chairs
+- Stuart Clayman (UCL, UK)
+- Stefano Salsano (University of Rome Tor Vergata, Italy)
+- Richard Li (Futurewei, USA)
 
 
-----
-![image](https://user-images.githubusercontent.com/6585533/163276891-634c15b7-7bba-49d8-ac9d-47d78de86bfe.png)
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/network2030/NewIP-and-Beyond/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
