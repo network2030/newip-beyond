@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## NEW IP and Beyond
+ Research, Innovation and Experimentation of Internet Protocol Evolutions for Future and Emerging Applications
 
-You can use the [editor on GitHub](https://github.com/network2030/NewIP-and-Beyond/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/6585533/163276688-9b226baf-961a-4321-9cb0-95acffa11e20.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CALL FOR PAPERS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Introduction
 
-```markdown
-Syntax highlighted code block
+The continuous evolution of communication protocols is necessary to complement the needs of emerging applications. A year or two ago, AR/VR was a prime area of research, then came digital twins, and metaverse is now emerging as the next avenue in cross-domain research. With each of these advances, as networks become more and more integrated into applications, therefore, attention to interoperability across the networks and its elements is necessary.
+ 
+There is a need to evolve fixed-network protocols to support 5G, B5G and to complement 6G technological research as the focus on communications shifts from general-purpose to large-scale special-purpose industry verticals, interconnecting different sites, suppliers, and clients. An extremely reliant, intelligent, and lean network will be required to ensure the efficiency of remote operations. It requires tighter integration with machine control applications in the cloud. Protocols for critical infrastructure and preparation for unforeseen events, such as COVID-19, natural disasters, unprecedented surges, and/or security breaches, etc. need to be designed and enhanced.
 
-# Header 1
-## Header 2
-### Header 3
+ 
+A protocol-centric approach to research and mechanisms is desired to foster interoperability of emerging scenarios along the following contexts:
+1. Protocols for KPI guarantees: The development of future and emerging applications depends on stringent guarantees of Key Performance Indicator (KPI) as applications incorporate more senses such as “touch” into communication and transmission.
+2. Networking in metaverse: Just recently, AR/VR held the prime research focus, then came digital twins, and metaverse is now emerging as the next avenue in cross-domain research. Multi-dimensional media applications will benefit from common transmission strategies instead of taking the burden themselves.
+3.	Industrial Internet: Originally air-gapped by design, industrial networks seek solutions to connect to the Internet and leverage edge and cloud technologies. 
+4.	Satellite Routing: Availability of satellite internet constellation to provide alternate delivery methods will need new routing technologies. 
+5.	Green Internet: A conscious effort in designing energy-saving protocols and mechanisms is necessary for response to the global climate change problem. 
+ 
+The workshop on ‘New IP and Beyond’ shares innovative protocols to overcome above challenges. It is a forum to bring forth ideas to prepare networks for unexpected events and provides a forum for disseminating and demonstrating research conducted in interoperability paradigms.
 
-- Bulleted
-- List
+### Topics of Interest
 
-1. Numbered
-2. List
+We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We invite submissions concept, design, frameworks, and experiments on a wide range of topics of interest, including, but not limited to:
+•	Foundational theory, algorithms, and principles in design of protocols in large-scale multistakeholder network architectures.
+•	Analysis and surveys of protocols for large-scale commercial and industrial networks.
+•	Protocol and verification methods for disseminating KPIs for High-precision communications.
+•	Network reliability
+•	Multifunction protocols to support plurality of features
+•	Cross-layer protocol interfaces and their design
+•	Backhaul, mid-haul, fronthaul transport protocols in B5G and 6G.
+•	Architecture for trustworthy, secure networks
+•	Theory and algorithms for lossless networking and lossless packet delivery
+•	Resource efficiency and usage mechanisms for deterministic, reliable, and lossless data transmission
+•	Media formats and methods for holographic type communications
+•	Challenges and KPIs from networks in metaverse systems
+•	Privacy preserving monetization and business models for service providers 
 
-**Bold** and _Italic_ and `Code` text
+### Important dates: (tentative)
 
-[Link](url) and ![Image](src)
-```
+| Title / Abstract registration	| Jul 24, 2022 (8:00 p.m. EDT) |
+| Full paper submission	| Jul 31, 2022 (8:00 p.m. EDT) |
+| Notification of acceptance |	October 1, 2022 |
+| Camera ready version | 	October 8, 2022 |
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Submission Instructions
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the 2018 ACM consolidated template package (you can also use this barebone LaTeX template). The font size must be 9 points. The length of the final paper with all its content except references must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
 
-### Jekyll Themes
+##### Paper Submission
+
+Please submit your paper via *TODO*
+
+![image](https://user-images.githubusercontent.com/6585533/163277206-1f287a3a-81ce-4506-940a-3e27dd297c71.png)
+
+
+----
+![image](https://user-images.githubusercontent.com/6585533/163276891-634c15b7-7bba-49d8-ac9d-47d78de86bfe.png)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/network2030/NewIP-and-Beyond/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
