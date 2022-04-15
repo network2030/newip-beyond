@@ -2,12 +2,9 @@
 <h2 style="text-align: center;">1st Workshop on New IP and Beyond</h2>
 <h4 style="text-align: center;">Organized by: IEEE ICNP 2022</h4>
 <h4 style="text-align: center;">The 30th IEEE International Conference on Network Protocols</h4>
-<h4 style="text-align: center;">Lexington, Kentucky, USA, October 30-November 2, 2022</h4>
+<h5 style="text-align: center;">Lexington, Kentucky, USA, October 30-November 2, 2022</h5>
 ---
 <h2 style="text-align: center;">CALL FOR PAPERS</h2>
-
-
-## CALL FOR PAPERS
 
 ### Introduction
 
@@ -57,8 +54,6 @@ Submissions must be original, unpublished work, and not under consideration at a
 
 Please submit your paper via *TODO*
 
-
-#### Main Organizers: 
 ##### General Co-Chairs
 -	Filip De Turck (Ghent University, Belgium)
 -	Kiran Makhijani (Futurewei, USA)
