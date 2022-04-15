@@ -11,3 +11,7 @@
 .h3 {
   color: red;
 }
+
+.inner {
+  max-width: 95%;
+}
