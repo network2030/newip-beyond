@@ -27,17 +27,29 @@ The workshop on ‘New IP and Beyond’ shares innovative protocols to overcome 
 We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We invite submissions concept, design, frameworks, and experiments on a wide range of topics of interest, including, but not limited to:
 
 -	Foundational theory, algorithms, and principles in design of protocols in large-scale multistakeholder network architectures.
+
 -	Analysis and surveys of protocols for large-scale commercial and industrial networks.
+
 -	Protocol and verification methods for disseminating KPIs for High-precision communications.
+
 -	Network reliability
+
 -	Multifunction protocols to support plurality of features
+
 -	Cross-layer protocol interfaces and their design
+
 -	Backhaul, mid-haul, fronthaul transport protocols in B5G and 6G.
+
 -	Architecture for trustworthy, secure networks
+
 -	Theory and algorithms for lossless networking and lossless packet delivery
+
 -	Resource efficiency and usage mechanisms for deterministic, reliable, and lossless data transmission
+
 -	Media formats and methods for holographic type communications
+
 -	Challenges and KPIs from networks in metaverse systems
+
 -	Privacy preserving monetization and business models for service providers 
 
 ----
