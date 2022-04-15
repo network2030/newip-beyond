@@ -1,9 +1,7 @@
-## NEW IP and Beyond
- Research, Innovation and Experimentation of Internet Protocol Evolutions for Future and Emerging Applications
 
-### CALL FOR PAPERS
+## CALL FOR PAPERS
 
-#### Introduction
+### Introduction
 
 The continuous evolution of communication protocols is necessary to complement the needs of emerging applications. A year or two ago, AR/VR was a prime area of research, then came digital twins, and metaverse is now emerging as the next avenue in cross-domain research. With each of these advances, as networks become more and more integrated into applications, therefore, attention to interoperability across the networks and its elements is necessary.
  
@@ -51,14 +49,14 @@ Submissions must be original, unpublished work, and not under consideration at a
 Please submit your paper via *TODO*
 
 
-#### Main Organizers: General Co-Chairs
+#### Main Organizers: 
+##### General Co-Chairs
 -	Filip De Turck (Ghent University, Belgium)
 -	Kiran Makhijani (Futurewei, USA)
 
-#### Workshop PC Co-Chairs
+##### Workshop PC Co-Chairs
 - Stuart Clayman (UCL, UK)
 - Stefano Salsano (University of Rome Tor Vergata, Italy)
 - Richard Li (Futurewei, USA)
-
 
 
