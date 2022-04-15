@@ -1,6 +1,11 @@
-Organized by: IEEE ICNP 2022
-## The 30th IEEE International Conference on Network Protocols
-## Lexington, Kentucky, USA, October 30-November 2, 2022
+
+<h2 style="text-align: center;">1st Workshop on New IP and Beyond</h2>
+<h4 style="text-align: center;">Organized by: IEEE ICNP 2022</h4>
+<h4 style="text-align: center;">The 30th IEEE International Conference on Network Protocols</h4>
+<h4 style="text-align: center;">Lexington, Kentucky, USA, October 30-November 2, 2022</h4>
+---
+<h2 style="text-align: center;">CALL FOR PAPERS</h2>
+
 
 ## CALL FOR PAPERS
 
@@ -23,6 +28,7 @@ The workshop on ‘New IP and Beyond’ shares innovative protocols to overcome 
 ### Topics of Interest
 
 We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We invite submissions concept, design, frameworks, and experiments on a wide range of topics of interest, including, but not limited to:
+
 •	Foundational theory, algorithms, and principles in design of protocols in large-scale multistakeholder network architectures.
 •	Analysis and surveys of protocols for large-scale commercial and industrial networks.
 •	Protocol and verification methods for disseminating KPIs for High-precision communications.
