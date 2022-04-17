@@ -1,5 +1,5 @@
-
 theme: jekyll-theme-minimal
-title: 1st Workshop on New IP and Beyond
 description:  Research, Innovation and Experimentation of Internet Protocol Evolutions for Future and Emerging Applications
-avatar: "/assets/img/icnp_logo.svg"
+title: New IP and Beyond
+
+markdown: kramdown
