@@ -1,12 +1,5 @@
 theme: jekyll-theme-minimal
 description:  Research, Innovation and Experimentation of Internet Protocol Evolutions for Future and Emerging Applications
 title: New IP and Beyond
-show_downloads: false
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
 markdown: kramdown
-#theme: minima
-plugins:
-  - jekyll-feed
