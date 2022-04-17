@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-<h4>CFP: 1st Workshop on New IP and Beyond</h4>
-   <p> The Call for Papers is now open for this workshop. It is organized by IEEE ICNP 2022 -
-  The 30th IEEE International Conference on Network Protocols  and will be held on October 30-November 2, 2022<p>
-  <p> More information about the conference at
-  <a href="https://icnp22.cs.ucr.edu">ICNP-22 </a> </p>
-  <h5> <a href="beyond22.html">New and Beyond: Call for Papers</a></h5>
+#### CFP: 1st Workshop on New IP and Beyond
+The *Call for Papers* is now open for 'New IP and Beyond' workshop. It is organized by IEEE 
+  The 30th IEEE International Conference on Network Protocols (ICNP 2022)  and will be held on October 30-November 2, 2022.
+
+More information about the conference at [ICNP-22](https://icnp22.cs.ucr.edu)
+##### [New and Beyond: Call for Papers](beyond22.html)
 
 
