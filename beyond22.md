@@ -65,16 +65,11 @@ We solicit stimulating, original, previously unpublished ideas on completed work
 
 -	Challenges and KPIs from networks in metaverse systems
 
--	Privacy preserving monetization and business models for service providers
+-	Privacy preserving approaches
+
+-	monetization and business models for service providers
 
 ----
-
-## Important dates: (tentative)
-
-| Title / Abstract registration	| Jul 24, 2022 (8:00 p.m. EDT) |
-| Full paper submission	| Jul 31, 2022 (8:00 p.m. EDT) |
-| Notification of acceptance |	October 1, 2022 |
-| Camera ready version | 	October 8, 2022 |
 
 ## Submission Instructions
 Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the 2018 ACM consolidated template package (you can also use this barebone LaTeX template). The font size must be 9 points. The length of the final paper with all its content except references must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
@@ -94,3 +89,13 @@ Please submit your paper : coming soon
 - Stefano Salsano (University of Rome Tor Vergata, Italy)
 - Richard Li (Futurewei, USA)
 
+### Technical Program Committee
+to be added soon.
+
+
+## Important dates: (tentative)
+
+| Title / Abstract registration	| Jul 24, 2022 (8:00 p.m. EDT) |
+| Full paper submission	| Jul 31, 2022 (8:00 p.m. EDT) |
+| Notification of acceptance |	October 1, 2022 |
+| Camera ready version | 	October 8, 2022 |
