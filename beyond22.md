@@ -66,8 +66,7 @@ We solicit stimulating, original, previously unpublished ideas on completed work
 -	Challenges and KPIs from networks in metaverse systems
 
 -	Privacy preserving approaches
-
--	monetization and business models for service providers
+-	Monetization and Business models to be used by service providers
 
 ----
 
@@ -90,7 +89,10 @@ Please submit your paper : coming soon
 - Richard Li (Futurewei, USA)
 
 ### Technical Program Committee
+
 to be added soon.
+
+---
 
 
 ## Important dates: (tentative)
