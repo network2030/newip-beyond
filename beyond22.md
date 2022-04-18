@@ -21,7 +21,7 @@ title: 1st Workshop on New IP and Beyond
 
 ## Introduction
 
-The continuous evolution of communication protocols is necessary to complement the needs of emerging applications. A year or two ago, AR/VR was a prime area of research, then came digital twins, and metaverse is now emerging as the next avenue in cross-domain research. With each of these advances, as networks become more and more integrated into applications, therefore, attention to interoperability across the networks and its elements is necessary.
+The continuous evolution of communication protocols is necessary to complement the needs of emerging applications. A year or two ago, AR/VR was a prime area of research, then came digital twins, and metaverse is now emerging as the next avenue in cross-domain research. With each of these advances, as networks become more and more integrated into applications, attention to interoperability across the networks and its elements is necessary.
 
 There is a need to evolve fixed-network protocols to support 5G, B5G and to complement 6G technological research as the focus on communications shifts from general-purpose to large-scale special-purpose industry verticals, interconnecting different sites, suppliers, and clients. An extremely reliant, intelligent, and lean network will be required to ensure the efficiency of remote operations. It requires tighter integration with machine control applications in the cloud. Protocols for critical infrastructure and preparation for unforeseen events, such as COVID-19, natural disasters, unprecedented surges, and/or security breaches, etc. need to be designed and enhanced.
 
