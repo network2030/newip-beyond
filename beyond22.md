@@ -59,11 +59,15 @@ We solicit stimulating, original, previously unpublished ideas on completed work
 ----
 
 ## Submission Instructions
-Submissions must be original, unpublished work, and not under consideration at another conference or journal. Submitted papers must use the new ACM template (using sigconf document type) from the 2018 ACM consolidated template package (you can also use this barebone LaTeX template). The font size must be 9 points. The length of the final paper with all its content except references must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
+
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Paper submissions should adhere to the IEEE Conference formatting requirements  with double column and the font size must be 10 points. The length of the final paper with all its content (including references) must not exceed 6 pages. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop.
+
+The IEEE template [available here](https://www.ieee.org/conferences/publishing/templates.html)
+
 
 #### Paper Submission
 
-Please submit your paper : coming soon
+Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipandbeyond22.hotcrp.com/)
 
 ## Programme Committe
 
