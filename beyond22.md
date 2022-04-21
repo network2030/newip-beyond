@@ -64,12 +64,12 @@ Submissions must be original, unpublished work, and not under consideration at a
 
 The IEEE template [available here](https://www.ieee.org/conferences/publishing/templates.html)
 
-
 #### Paper Submission
 
 Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipandbeyond22.hotcrp.com/)
 
 ## Programme Committe
+
 
 #### General Co-Chairs
 -	Filip De Turck (Ghent University, Belgium)
@@ -82,10 +82,19 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 
 ### Technical Program Committee
 
-to be added soon.
-
+- Albert Cabellos-Aparicio,  Universitat Politècnica de Catalunya
+- Osamah Lutf Hamood Barakat, Siemens, Germany
+- Nirmala Shenoy,  Rochester Institute of Technology, USA
+- Roch Glitho,    Concordia University, USA
+- Tongyang Xu,    University College London, USA
+- Yong Liu,       New York University, USA
+- Hanan Lutfiyya, The University of Western Ontario, CA
+- Mohit P. Tahiliani, National Institute of Tech Karnataka, India
+- Lijun Dong,     Futurewei Tech, USA
+- Faisal Tooba ,  King's College London, UK
+- Xiang Sun ,     University of New Mexico, USA
+- Alex Afanasyev ,Florida International University, USA
 ---
-
 
 ## Important dates: (tentative)
 
