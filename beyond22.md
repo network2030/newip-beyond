@@ -94,6 +94,7 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 - Faisal Tooba ,  King's College London, UK
 - Xiang Sun ,     University of New Mexico, USA
 - Alex Afanasyev ,Florida International University, USA
+
 ---
 
 ## Important dates: (tentative)
