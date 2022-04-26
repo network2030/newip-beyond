@@ -86,14 +86,16 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 - Osamah Lutf Hamood Barakat, Siemens, Germany
 - Nirmala Shenoy,  Rochester Institute of Technology, USA
 - Roch Glitho,    Concordia University, USA
+- Maria Torres Vega, Ghent University, Belgium
 - Tongyang Xu,    University College London, USA
 - Yong Liu,       New York University, USA
 - Hanan Lutfiyya, The University of Western Ontario, CA
 - Mohit P. Tahiliani, National Institute of Tech Karnataka, India
 - Lijun Dong,     Futurewei Tech, USA
-- Faisal Tooba ,  King's College London, UK
-- Xiang Sun ,     University of New Mexico, USA
-- Alex Afanasyev ,Florida International University, USA
+- Faisal Tooba,   King's College London, UK
+- Xiang Sun,      University of New Mexico, USA
+- Alex Afanasyev, Florida International University, USA
+- Tim Wauters,    Ghent University, Belgium
 
 ---
 
