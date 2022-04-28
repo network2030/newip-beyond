@@ -41,6 +41,9 @@ The workshop on ‘New IP and Beyond’ shares innovative protocols to overcome 
 
 We solicit stimulating, original, previously unpublished ideas on completed work, position papers, and/or work-in-progress papers in the form of extended abstracts. We invite submissions concept, design, frameworks, and experiments on a wide range of topics of interest, including, but not limited to:
 
+-	Semantic Addressing 
+-	High Precision Communications
+-	Qualitative Communications and Semantic Communications
 -	Foundational theory, algorithms, and principles in design of protocols in large-scale multistakeholder network architectures.
 -	Analysis and surveys of protocols for large-scale commercial and industrial networks.
 -	Protocol and verification methods for disseminating KPIs for High-precision communications.
