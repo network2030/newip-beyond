@@ -93,6 +93,7 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 - Xiang Sun,      University of New Mexico, USA
 - Alex Afanasyev, Florida International University, USA
 - Tim Wauters,    Ghent University, Belgium
+- Muge Sayit,     Ege University, Turkey
 
 ---
 
