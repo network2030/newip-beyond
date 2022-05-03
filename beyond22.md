@@ -79,24 +79,24 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 
 ### Technical Program Committee
 
-- Albert Cabellos-Aparicio,  Universitat Politècnica de Catalunya
+- Alex Afanasyev,     Florida International University, USA
 - Osamah Lutf Hamood Barakat, Siemens, Germany
-- Nirmala Shenoy,  Rochester Institute of Technology, USA
-- Roch Glitho,    Concordia University, USA
-- Maria Torres Vega, Ghent University, Belgium
-- Tongyang Xu,    University College London, USA
-- Yong Liu,       New York University, USA
-- Hanan Lutfiyya, The University of Western Ontario, CA
-- Mohit P. Tahiliani, National Institute of Tech Karnataka, India
-- Lijun Dong,     Futurewei Tech, USA
-- Faisal Tooba,   King's College London, UK
-- Xiang Sun,      University of New Mexico, USA
-- Alex Afanasyev, Florida International University, USA
-- Tim Wauters,    Ghent University, Belgium
-- Muge Sayit,     Ege University, Turkey
-- K. K. Ramakrishnan, University of California, River Side, USA
+- Albert Cabellos-Aparicio,   Universitat Politècnica de Catalunya, Spain
+- Lijun Dong,         Futurewei Tech, USA
 - Halima Elbiaze,     Université du Québec à Montréal, Montreal, Canada
+- Roch Glitho,        Concordia University, USA
 - Jiang Liu,          Beijing University of Posts and Telecommunications, Beijing
+- Hanan Lutfiyya,     The University of Western Ontario, CA
+- K. K. Ramakrishnan, University of California, River Side, USA
+- Muge Sayit,         Ege University, Turkey
+- Nirmala Shenoy,     Rochester Institute of Technology, USA
+- Xiang Sun,          University of New Mexico, USA
+- Mohit P. Tahiliani, National Institute of Tech Karnataka, India
+- Faisal Tooba,       King’s College London, UK
+- Maria Torres Vega,  Ghent University, Belgium
+- Tim Wauters,        Ghent University, Belgium
+- Tongyang Xu,        University College London, USA
+- Yong Liu,           New York University, USA
 
 ---
 
