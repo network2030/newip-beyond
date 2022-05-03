@@ -94,6 +94,9 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 - Alex Afanasyev, Florida International University, USA
 - Tim Wauters,    Ghent University, Belgium
 - Muge Sayit,     Ege University, Turkey
+- K. K. Ramakrishnan, University of California, River Side, USA
+- Halima Elbiaze,     Université du Québec à Montréal, Montreal, Canada
+- Jiang Liu,          Beijing University of Posts and Telecommunications, Beijing
 
 ---
 
