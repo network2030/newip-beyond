@@ -95,7 +95,7 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 - Faisal Tooba,       King’s College London, UK
 - Maria Torres Vega,  Ghent University, Belgium
 - Tim Wauters,        Ghent University, Belgium
-- Tongyang Xu,        University College London, USA
+- Tongyang Xu,        University College London, UK
 - Yong Liu,           New York University, USA
 
 ---
