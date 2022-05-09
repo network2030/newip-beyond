@@ -44,8 +44,9 @@ We solicit stimulating, original, previously unpublished ideas on completed work
 -	Semantic addressing and routing
 -	High Precision Communications
 -	Qualitative and/or Semantic Communications
--	Integration of Satellite and Terrestrial Networks
--	Holographic Type Communications
+-	Integration of Spatial and Terrestrial Networks
+-	Energy Reduction in New IP
+-	New Technologies for Networks in the Year 2030 and Beyond
 -	Protocol and verification methods for disseminating KPIs for High Precision Communications.
 -	Foundational theory, algorithms, and principles in design of protocols in large-scale multistakeholder network architectures.
 -	Theory and algorithms for lossless networking and lossless packet delivery
@@ -77,7 +78,7 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 - Stefano Salsano (University of Rome Tor Vergata, Italy)
 - Richard Li (Futurewei, USA)
 
-### Technical Program Committee
+### Technical Programme Committee
 
 - Alex Afanasyev,     Florida International University, USA
 - Osamah Lutf Hamood Barakat, Siemens, Germany
@@ -104,5 +105,5 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 
 | Title / Abstract registration	| Jul 24, 2022 (8:00 p.m. EDT) |
 | Full paper submission	| Jul 31, 2022 (8:00 p.m. EDT) |
-| Notification of acceptance |	October 1, 2022 |
-| Camera ready version | 	October 8, 2022 |
+| Notification of acceptance |	August 26, 2022 |
+| Camera ready version | 	September 8, 2022 |
