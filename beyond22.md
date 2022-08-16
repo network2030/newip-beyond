@@ -105,5 +105,5 @@ Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipan
 
 | Title / Abstract registration	| ~~Jul 24, 2022~~ Aug 15, 2022 (8:00 p.m. EDT) (firm extended deadline)|
 | Full paper submission	| ~~Jul 31, 2022~~ Aug 15, 2022(8:00 p.m. EDT) (firm extended deadline) |
-| Notification of acceptance |	August 26, 2022 |
+| Notification of acceptance |	August 31, 2022 |
 | Camera ready version | 	September 8, 2022 |
