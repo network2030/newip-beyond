@@ -17,7 +17,7 @@ title: 1st Workshop on New IP and Beyond
 <h5 style="text-align: center; line-height:0em;">The 30th IEEE International Conference on Network Protocols</h5>
 <h6 style="text-align: center;line-height:0em;">Lexington, Kentucky, USA, October 30-November 2, 2022</h6>
 
-<h2 style="text-align: center;">CALL FOR PAPERS</h2>
+<h2 style="text-align: center;">PROGRAM</h2>
 
 ## About the Workshop
 
@@ -34,7 +34,7 @@ research conducted in interoperability paradigms.
 
 |9:30 - 10:15 AM Session 1 (Keynote)|
 |9:30 AM	| Opening & Welcome	Note by Chairs (10 minutes)	|
-|9:40:AM	| Keynote: Topic -TBD\\
+|9:40:AM	| Keynote: Topic -TBD \\
           Dr. Feng Qian, Associate Professor, University of Minnesota|
 |10:15 AM |	Coffee Break (30 m)	|
 
