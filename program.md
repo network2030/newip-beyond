@@ -28,7 +28,7 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 ##### 9:30-10:15 AM *Session 1 Keynote* 
 
-|9:30 |Opening & Welcome	Note by Chairs (10 minutes)	|
+|9:30|Opening & Welcome	Note by Chairs (10 minutes)	|
 |9:40| __Keynote__: Topic -TBD |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
 
