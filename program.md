@@ -20,21 +20,19 @@ tbl-colwidths: [10,60]
 
 <h2 style="text-align: center;">New IP and Beyond - Full Day Workshop Program</h2>
 
-## About the Workshop
-
-The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-network protocols complementing 5G, B5G and 6G technologies.The focus is on realization of large-scale, special-purpose industry verticals, autonomous operations, reliable supply-chains, metaverse and digital twins. Such networks require, an extremely reliant, intelligent, and lean networks.:s
+The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-network protocols complementing 5G, B5G and 6G technologies.The focus is on realization of large-scale, special-purpose industry verticals, autonomous operations, reliable supply-chains, metaverse and digital twins. Such networks require, an extremely reliant, intelligent, and lean networks.
 
 --- 
 
-## Agenda
+## Workshop Agenda
 
 ##### 9:30-10:15 AM *Session 1 Keynote* 
 
 |9:30 |Opening & Welcome	Note by Chairs (10 minutes)	|
-|9:40:| __Keynote__: Topic -TBD |
+|9:40| __Keynote__: Topic -TBD |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
 
-#### 10:15 AM Coffee Break (30 m)	
+#### 10:15 AM Coffee Break (30 minutes)	
 
 #### 10:45 AM-12:30 PM	Session 2	*New  In-network services*
 
@@ -51,9 +49,9 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 |13:55 | New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
 |14:20 | Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
 
-#### 14:45 15:15 PM	Coffee Break
+#### 14:45 15:15 PM	Coffee Break (30 minutes)
 
-#### 15:15:00 PM 	Session 4 - *Panel Discussion*
+#### 15:15 PM onwards 	Session 4 - *Panel Discussion*
 
 | Topic | <span style="color:#9B032F">Way Forward to 5G/6G: what is missing in network protocols and technologies.</span>|
 |	Panelists| <span style="color:#FA5E8B">Ken Calvert</span> (UK, KY, USA),<br> <span style="color:#FA5E8B">Richard Li</span> (Futurewei, CA, USA)<br>	<span style="color:#FA5E8B">Nirmala Shenoy</span> (RIT, NY, USA)<br>	<span style="color:#FA5E8B">Marina Thottan</span>, (Amazon, remote, USA)	|
