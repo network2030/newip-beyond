@@ -18,13 +18,13 @@ tbl-colwidths: [10,60]
 <h5 style="text-align: center; line-height:0em;">The 30th IEEE International Conference on Network Protocols</h5>
 <h6 style="text-align: center;line-height:0em;">Lexington, Kentucky, USA, October 30-November 2, 2022</h6>
 
-<h2 style="text-align: center;">New IP and Beyond - Full Day Workshop Program</h2>
+<h2 style="text-align: center;">New IP and Beyond Workshop Program</h2>
 
 The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-network protocols complementing 5G, B5G and 6G technologies.The focus is on realization of large-scale, special-purpose industry verticals, autonomous operations, reliable supply-chains, metaverse and digital twins. Such networks require, an extremely reliant, intelligent, and lean networks.
 
 --- 
 
-## Workshop Agenda
+#### Workshop Agenda
 
 ##### 9:30-10:15 AM *Session 1 Keynote* 
 
@@ -45,9 +45,9 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 #### 13:30-14:45 PM Session 3 -	*New  Routing Paradigms*
 
-|13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub</span>, M. Lamali, D. Magoni|
-|13:55 | New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
-|14:20 | Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
+|13:30|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub</span>, M. Lamali, D. Magoni|
+|13:55| New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
+|14:20| Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
 
 #### 14:45 15:15 PM	Coffee Break (30 minutes)
 
