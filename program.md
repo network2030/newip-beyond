@@ -1,7 +1,6 @@
 ---
-layout: program
+layout: agenda
 title: 1st Workshop on New IP and Beyond
-tbl-colwidths: [10,60]
 ---
 <!-- <h1 style="text-align: center;">1st Workshop on New IP and Beyond</h1> -->
 
@@ -18,58 +17,66 @@ tbl-colwidths: [10,60]
 <h5 style="text-align: center; line-height:0em;">The 30th IEEE International Conference on Network Protocols</h5>
 <h6 style="text-align: center;line-height:0em;">Lexington, Kentucky, USA, October 30-November 2, 2022</h6>
 
-<h2 style="text-align: center;">New IP and Beyond Workshop Program</h2>
+<h2 style="text-align: center;">New IP and Beyond - Full Day Workshop Program</h2>
 
-The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-network protocols complementing 5G, B5G and 6G technologies.The focus is on realization of large-scale, special-purpose industry verticals, autonomous operations, reliable supply-chains, metaverse and digital twins. Such networks require, an extremely reliant, intelligent, and lean networks.
+##### About the Workshop
 
---- 
+The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-network protocols complementing 5G, B5G and 6G technologies. The focus is on the realization of large-scale, special-purpose industry verticals, autonomous operations, reliable supply-chains, metaverse and digital twins. Such networks require, an extremely reliant, intelligent, and lean networks.
 
-#### Workshop Agenda
+---
 
-##### 9:30-10:15 AM *Session 1 Keynote* 
+## Agenda
 
-|9:30|Opening & Welcome	Note by Chairs (10 minutes)	|
-|9:40| __Keynote__: Topic -TBD |
+### Session 1
+#### 09:30 AM - 10:15 AM &emsp;&emsp;*Welcome and Keynote*
+
+|9:30 |Opening & Welcome	Note by Chairs (10 minutes)	|
+|9:40:| __Keynote__: Topic -TBD |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
 
-#### 10:15 AM Coffee Break (30 minutes)	
+#### &emsp;10:15-10:45 AM &emsp;&emsp;Coffee Break (30 minutes)
+---
 
-#### 10:45 AM-12:30 PM	Session 2	*New  In-network services*
+### Session 2
+#### 10:45 AM - 12:30 PM&emsp;&emsp; *New  In-network services*
 
 |10:45 | Behavior-decoupled Labeling Mechanism in Generalized SRv6<br>Authors: W. Wu, <span style="color:#FA5E8B">S. Li(remote)</span>, A. Pei, T. Huang|
 |11:10 |Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications<br> Authors: <span style="color:#FA5E8B">X. Ren </span>, J. Ji, L. Cai
 |11:35 	|TinTin: Tiny In-Network Transport for High Precision INdustrial Communication<br>	Authors: K. Makhijani, B. Kataria, S. D., D. Devkota, <span style="color:#FA5E8B">M. Tahiliani(remote)</span> |
 |11:55 	|Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN)<br>Authors: <span style="color:#FA5E8B">I. Kunze</span>, D. Trossen, K. Wehrle
 
-#### 12:30 PM	Lunch	
+#### &emsp;12:30 PM - 13:30 PM &emsp;&emsp;Lunch (60 minutes)
+---
 
-#### 13:30-14:45 PM Session 3 -	*New  Routing Paradigms*
+### Session 3
+#### 13:30 PM - 14:45 PM &emsp;&emsp;*New  Routing Paradigms*
 
-|13:30|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub</span>, M. Lamali, D. Magoni|
-|13:55| New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
-|14:20| Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
+|13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub</span>, M. Lamali, D. Magoni|
+|13:55 | New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
+|14:20 | Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
 
-#### 14:45 15:15 PM	Coffee Break (30 minutes)
+#### 14:45 PM - 15:15 PM &emsp;&emsp;Coffee Break (30 minutes)
 
-#### 15:15 PM onwards 	Session 4 - *Panel Discussion*
+### Session 4
+#### 15:15 PM - 16:00 PM &emsp; &emsp;*Panel Discussion*
 
-| Topic | <span style="color:#9B032F">Way Forward to 5G/6G: what is missing in network protocols and technologies.</span>|
+| Topic | <span style="font-size: large; color:#9B032F"> Way Forward to 5G/6G: What is missing in <br> Network Protocols and Technologies?</span> |
 |	Panelists| <span style="color:#FA5E8B">Ken Calvert</span> (UK, KY, USA),<br> <span style="color:#FA5E8B">Richard Li</span> (Futurewei, CA, USA)<br>	<span style="color:#FA5E8B">Nirmala Shenoy</span> (RIT, NY, USA)<br>	<span style="color:#FA5E8B">Marina Thottan</span>, (Amazon, remote, USA)	|
 
-#### 4:15 |	Closing	
+#### 4:15 |&emsp; &emsp; Closing
 
 ---
-## Keynote
+### Keynote Speaker
 *coming soon*
 
 ---
 
-## Panel Details
+### Invited Panelists
 *coming soon*
 
 ----
 
-## Submitted Paper Presentations
+### Accepted Papers
 
 #### Tiny In-Network Transport for High Precision INdustrial Communication
 

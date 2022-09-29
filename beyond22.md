@@ -17,6 +17,12 @@ title: 1st Workshop on New IP and Beyond
 <h5 style="text-align: center; line-height:0em;">The 30th IEEE International Conference on Network Protocols</h5>
 <h6 style="text-align: center;line-height:0em;">Lexington, Kentucky, USA, October 30-November 2, 2022</h6>
 
++<div align="center">
++<br>
++<h2><a href="http://newip-and-beyond.net/program.html">NIB'22 Workshop PROGRAM is Published - here!</a></h2>
++<br>
++</div>
++
 <h2 style="text-align: center;">CALL FOR PAPERS</h2>
 
 ## Introduction

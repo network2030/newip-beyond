@@ -36,3 +36,5 @@ gem "github-pages", group: :jekyll_plugins
 # kramdown v1, comment out this line.
 #gem "kramdown-parser-gfm"
 
+
+gem "webrick", "~> 1.7"
