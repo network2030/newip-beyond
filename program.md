@@ -27,28 +27,28 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 ## Agenda
 
-### Session 1
+### Session 1 (Keynote)
 #### 09:30 AM - 10:15 AM &emsp;&emsp;*Welcome and Keynote*
 
 |9:30 |Opening & Welcome	Note by Chairs (10 minutes)	|
-|9:40:| __Keynote__: Topic -TBD |
+|9:40:| Keynote: __A Variegated Study of 5G Services: Challenges, Opportunities, and Application Innovations.__ |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
 
 #### &emsp;10:15-10:45 AM &emsp;&emsp;Coffee Break (30 minutes)
 ---
 
-### Session 2
+### Session 2 (Technical Papers)
 #### 10:45 AM - 12:30 PM&emsp;&emsp; *New  In-network services*
 
 |10:45 | Behavior-decoupled Labeling Mechanism in Generalized SRv6<br>Authors: W. Wu, <span style="color:#FA5E8B">S. Li(remote)</span>, A. Pei, T. Huang|
 |11:10 |Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications<br> Authors: <span style="color:#FA5E8B">X. Ren </span>, J. Ji, L. Cai
-|11:35 	|TinTin: Tiny In-Network Transport for High Precision INdustrial Communication<br>	Authors: K. Makhijani, B. Kataria, S. D., D. Devkota, <span style="color:#FA5E8B">M. Tahiliani(remote)</span> |
+|11:35 	|TinTin: Tiny In-Network Transport for High Precision INdustrial Communication<br>	Authors: K. Makhijani, B. Kataria, S. D., D. Devkota, <span style="color:#FA5E8B">M. Tahiliani (remote)</span> |
 |11:55 	|Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN)<br>Authors: <span style="color:#FA5E8B">I. Kunze</span>, D. Trossen, K. Wehrle
 
 #### &emsp;12:30 PM - 13:30 PM &emsp;&emsp;Lunch (60 minutes)
 ---
 
-### Session 3
+### Session 3 (Technical Papers)
 #### 13:30 PM - 14:45 PM &emsp;&emsp;*New  Routing Paradigms*
 
 |13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub</span>, M. Lamali, D. Magoni|
@@ -57,22 +57,45 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 #### 14:45 PM - 15:15 PM &emsp;&emsp;Coffee Break (30 minutes)
 
-### Session 4
+### Session 4 (Panel)
 #### 15:15 PM - 16:00 PM &emsp; &emsp;*Panel Discussion*
 
 | Topic | <span style="font-size: large; color:#9B032F"> Way Forward to 5G/6G: What is missing in <br> Network Protocols and Technologies?</span> |
-|	Panelists| <span style="color:#FA5E8B">Ken Calvert</span> (UK, KY, USA),<br> <span style="color:#FA5E8B">Richard Li</span> (Futurewei, CA, USA)<br>	<span style="color:#FA5E8B">Nirmala Shenoy</span> (RIT, NY, USA)<br>	<span style="color:#FA5E8B">Marina Thottan</span>, (Amazon, remote, USA)	|
+|	Panelists| <span style="color:#FA5E8B"><B>Alvaro Retana, </B></span>Futurewei, USA, (Moderator)<br> <span style="color:#FA5E8B">Ken Calvert</span>, UK, KY, USA<br> <span style="color:#FA5E8B">Nirmala Shenoy</span>, RIT, NY, USA<br>	<span style="color:#FA5E8B">Marina Thottan</span>, Amazon, USA (remote participation)<br><span style="color:#FA5E8B">Richard Li</span>, Futurewei, CA, USA|
 
 #### 4:15 |&emsp; &emsp; Closing
 
 ---
-### Keynote Speaker
-*coming soon*
+
+### Keynote
+
+<span style="font-size: large;"> Professor Feng Qian (University of Minnesota, USA)</span>
+
+| ![image-feng](./assets/img/qian.png){:width="950px"}*Prof. Feng Qian* | *Bio:* Prof. Qian’s research interests include mobile systems, AR/VR, mobile networking, wearable computing, and real-world system measurements. He received his Ph.D. from EECS at the University of Michigan in 2012. He was honored to receive several awards, including the AT&T Key Contributor Award (2014), NSF CRII Award (2016), Google Faculty Award (2016), ACM CoNEXT Best Paper Award (2016,2018), AT&T VURI Award (2017), NSF CAREER Award (2018), Trustees Teaching Award (2018), DASH-IF Excellence Award (2019), Cisco Research Award (2021), and ACM SIGCOMM Best Student Paper Award (2021), AI 2000 Top-100 Scholar in Networking (2022), and Google Research Scholar Award (2022). Some of his research prototypes such as mobile Application Resource Optimizer (ARO), have been commercialized and are widely used in academia and industry.|
+
+<span style="font-size: large; color:#9B032F"> A Variegated Study of 5G Services: Challenges, Opportunities, and Application Innovations</span>
+
+*Abstract:* 5G is expected to support sub-millisecond latency as well as a throughput of up to 20 Gbps -- a 100x improvement compared to 4G/LTE. However, there exists a vacuum in understanding how 5G performs "in the wild" and whether it can fulfill its promises. In this talk, I will describe our research thrust of 5G networks since early 2019, when Minneapolis became one of the first two U.S. cities that received commercial 5G deployment. Over the past 3 years, we have experimented with more than 100 TB of 5G data and traveled more than 8,000 km for drive tests. Our studies revealed a complete landscape of 5G across several key dimensions -- network performance, power characteristics, mobility management, and application quality-of-experience (QoE), to name a few, with their critical tradeoffs quantitatively revealed. I will then talk about our development of a learning-based framework for accurate 5G performance prediction and how we innovate emerging applications such as virtual/mixed reality (VR/MR) to improve their QoE on 5G networks.
 
 ---
 
 ### Invited Panelists
-*coming soon*
+
+#### Prof. Ken Calvert (University of Kentucky, USA)
+
+| ![image-ken](./assets/img/ken.png){:width="950px"}*Prof. Ken Calvert* | Bio: Ken Calvert is the Gartner Group Professor in Network Engineering at the University of Kentucky. His research deals with designing and implementing advanced network protocols and services, including active/programmable networks, ephemeral state processing, and ChoiceNet, an effort to encourage innovation through competition by developing an "economy plane" for the future Internet. He is one of the developers of the GT-ITM Internet topology modeling tool. Currently he is working on developing the information-centric networking paradigm. socket interface. He has been an associate editor of IEEE/ACM Transactions on Networking, a faculty member at Georgia Tech, and a Member of the Technical Staff at Bell Telephone Laboratories in Holmdel, NJ. He is a member of the ACM and a Fellow of the IEEE. |
+
+#### Prof. Nirmala Shenoy (Rochester Institute of Technology, USA)
+
+|![image-shenoy](./assets/img/shenoy.png){:width="950px"}*Prof. Nirmala Shenoy*  | *Bio:* Nirmala Shenoy received her Ph.D. in Computer Science from Germany in Network Protocols, Masters in Engineering in Applied Electronics and Bachelors in Engineering in Electronics and Telecommunications from Madras University, India. She is currently Professor in the Information School, Golisano College of Computing and Information Sciences at Rochester Institute of Technology (RIT). She is Director of the Lab for Networking and Security at RIT. Her research interests are in developing clean slate protocols for challenging communications scenarios in networks today. She developed new tree algorithms and protocols to address the dynamic connectivity challenges faced in mobile  and wireless adhoc networks and these projects were funded by multiple DoD grants. She received multiple grants  from National Science Foundations   for her protocol solutions to use network structures to address the routing challenges faced in the Internet under NSF’s Future Internet Architectures project. She standardized  the Meshed Tree Protocol based off a meshed tree algorithm for use in switched networks as a replacement for Rapid Spanning Tree protocol, which is slow to converge. Currently she is working on an enhanced version of the Meshed Tree Protocol to address communications in Data Center Networks. The C code for the protocols that she developed are available on request.
+
+#### Dr. Richard Li (Futurewei Technologies, USA)
+
+|![image-li](./assets/img/li.png){:width="950px"}*Dr. Richard Li*  | *Bio:* Dr. Richard Li is Chief Scientist and Vice President of Network Technologies at Futurewei, USA. Richard served as the Chairman of the ITU-T FG Network 2030 from 2018 to 2020, and as the Vice Chairman of the Europe ETSI ISG NGP (Next-Generation Protocols) from 2016 to 2019. He has also served as Co-Chairs of steering committees and technical program committees of some academic and industrial conferences. Richard is extremely passionate about advancing ICT infrastructure technologies and solving problems in their entirety, thus creating a bigger and long-term impact on the networking industry. During his career, Richard spearheaded network technology innovation and development in Routing and MPLS, Mobile Backhaul, Metro and Core Networks, Data Center, Cloud and Virtualization. Currently he leads a team of scientists and engineers to develop technologies for next-generation network architectures, protocols, algorithms, and systems in the support of emerging and forward-looking applications and industry verticals in the context of New IP, Network 2030, and 5G/B5G/6G.|
+
+#### Marina Thottan Principal Research Scientist - Amazon Web Services (AWS) | Fellow IEEE | Bell Labs Fellow
+
+|![image-thottan](./assets/img/thottan.png){:width="450px"}*Dr. Marina Thottan* | *Bio:* Marina Thottan joined Bell Labs Research in 1999, and has contributed to a wide variety of projects, including Content Distribution, Routing protocols, Data over Optical networks, High Speed Router Design, Network Management, Anomaly Detection and Smart Grid Networks. Most recently she has been leading work on End-to-End Network Orchestration, Network Slicing, and 5G Security. She and her team have also consulted with both domestic and international utilities on smart grid network transformation as well as with Communication Service Providers on their 5G transformation. <br> Marina received a Ph.D. in Electrical and Computer Engineering from Rensselaer in 2000. She has published over 50 papers in scientific journals, book chapters and conferences and holds several patents in the areas of network management, interactive network applications, routing algorithms, data analytics and network architectures. She is co-author of the book “Communication Networks for Smart Grids: Making Smart Grids Real” and has also Co-edited a book on “Algorithms for Next Generation Networks”. <br> Marina is a Bell Labs Fellow and an IEEE Fellow.|
 
 ----
 
