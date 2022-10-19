@@ -93,31 +93,19 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 |![image-li](./assets/img/li.png){:width="950px"}*Dr. Richard Li*  | *Bio:* Dr. Richard Li is Chief Scientist and Vice President of Network Technologies at Futurewei, USA. Richard served as the Chairman of the ITU-T FG Network 2030 from 2018 to 2020, and as the Vice Chairman of the Europe ETSI ISG NGP (Next-Generation Protocols) from 2016 to 2019. He has also served as Co-Chairs of steering committees and technical program committees of some academic and industrial conferences. Richard is extremely passionate about advancing ICT infrastructure technologies and solving problems in their entirety, thus creating a bigger and long-term impact on the networking industry. During his career, Richard spearheaded network technology innovation and development in Routing and MPLS, Mobile Backhaul, Metro and Core Networks, Data Center, Cloud and Virtualization. Currently he leads a team of scientists and engineers to develop technologies for next-generation network architectures, protocols, algorithms, and systems in the support of emerging and forward-looking applications and industry verticals in the context of New IP, Network 2030, and 5G/B5G/6G.|
 
-#### Marina Thottan Principal Research Scientist - Amazon Web Services (AWS) | Fellow IEEE | Bell Labs Fellow
+#### Dr. Marina Thottan, Principal Research Scientist, AWS Amazon, (IEEE Fellow, Bell Labs Fellow)
 
-|![image-thottan](./assets/img/thottan.png){:width="450px"}*Dr. Marina Thottan* | *Bio:* Marina Thottan joined Bell Labs Research in 1999, and has contributed to a wide variety of projects, including Content Distribution, Routing protocols, Data over Optical networks, High Speed Router Design, Network Management, Anomaly Detection and Smart Grid Networks. Most recently she has been leading work on End-to-End Network Orchestration, Network Slicing, and 5G Security. She and her team have also consulted with both domestic and international utilities on smart grid network transformation as well as with Communication Service Providers on their 5G transformation. <br> Marina received a Ph.D. in Electrical and Computer Engineering from Rensselaer in 2000. She has published over 50 papers in scientific journals, book chapters and conferences and holds several patents in the areas of network management, interactive network applications, routing algorithms, data analytics and network architectures. She is co-author of the book “Communication Networks for Smart Grids: Making Smart Grids Real” and has also Co-edited a book on “Algorithms for Next Generation Networks”. <br> Marina is a Bell Labs Fellow and an IEEE Fellow.|
+|![image-thottan](./assets/img/thottan.png){:width="450px"}*Dr. Marina Thottan* | *Bio:* Marina Thottan is Principal Research Scientist at AWS Amazon. Prior to joining Amazon, she was Vice President of Network and Security research at Bell Labs. Marina has contributed to a wide variety of research areas, including Content Distribution, Routing protocols, Data over Optical networks, High Speed Router Design, Network Management, Anomaly Detection and Smart Grid Networks. Most recently she has been leading research work on Cloud Network Availability and 5G Network Observability.
+Marina received a Ph.D. in Electrical and Computer Engineering from Rensselaer in 2000. She has published over 60 papers in scientific journals, book chapters and conferences and holds several patents in the areas of network management, interactive network applications, routing algorithms, data analytics and network architectures. She is co-author of the book “Communication Networks for Smart Grids: Making Smart Grids Real” and has also Co-edited a book on “Algorithms for Next Generation Networks”.
+Marina is a Bell Labs Fellow and an IEEE Fellow.|
+
+#### Alvaro Retana, VP, Technology Strategy, Future Networks, Futurewei, USA (Routing AD, IETF).
+
+|![image-alvaro](./assets/img/alvaro.jpg){:width="450px"}*Dr. Alvaro Retana* | *Bio:* Alvaro Retana currently serves as Routing Area Director and is a Board Member of the Industry Network Technology Council (INTC). Alvaro is VP, Technology Strategy in the Future Networks group at Futurewei Technologies.  is a Board Member of the Industry Network Technology Council (INTC), has published 4 technical books, and has been awarded over 60 patents by the US Patent and Trademark Office. Alvaro has been participating in the IETF since 1998, mainly in the Routing Area. He previously co-chaired the Routing Area Working Group (rtgwg) and the Source Packet Routing in Networking WG (spring), and has co-authored several documents on routing technology.|
 
 ----
 
 ### Accepted Papers
-
-#### Tiny In-Network Transport for High Precision INdustrial Communication
-
-*Abstract:* The design of a transport protocol for high precision
-industrial networks is a complex problem since the industrial
-applications are resource-critical, time-critical, session-less, and
-safety-critical. These requirements make existing end-to-end
-transport mechanisms unsuitable for use in the industry verticals
-that require control-systems type communication. This paper
-proposes a lightweight, connection-less, and reliable protocol
-called TinTin. It utilizes the in-network capabilities to compensate
-for end device constraints. The mechanisms adopted in TinTin
-aim to reduce the communication overheads associated with well-
-known connection-oriented protocols. This paper discusses the
-design considerations of TinTin in detail and presents an early
-stage proof-of-concept implementation of TinTin with New IP.
-
-##### Authors: Kiran Makhijani (Futurewei), Bhaskar Kataria, Shashank D., Deepta Devkota, Mohit Tahiliani (NITK, Surathkal).
 
 #### Behavior-decoupled Labeling Mechanism in Generalized SRv6
 
@@ -144,7 +132,25 @@ Simulation results show that the proposed algorithm can achieve significant impr
 *Abstract* :
 This document proposes a method of addressing and routing for massive Low Earth Orbit (LEO) satellite constellations. It is based on the concepts and technologies of New IP. LEO satellite networks can be used for Internet access and for the Non-Terrestrial Network (NTN) integration with 5G and beyond. Our new addressing method leverages the characteristics of satellites with known orbit elements; and simplifies the satellite identification by using limited indexes. The new routing method combines semantic addressing with source routing and generates a new semantic routing scheme. Compared with traditional methods, the new proposal dramatically reduces the workload in satellite, such as table size, TCAM (Ternary Content-addressable Memory) lookups, and packet header size. Thus, it is more suitable to network in space where the harsh environment will restrict the hardware performance, power consumption, link bandwidth and system complexity.
 
+
 ##### Authors: Lin Han, Alvaro Retana, Cedric Westphal, Richard Li (Futurewei Technologies, Inc.), Tianji Jiang, Meiling Chen (China Mobile Communication Research Institute)
+#### Tiny In-Network Transport for High Precision INdustrial Communication
+
+*Abstract:* The design of a transport protocol for high precision
+industrial networks is a complex problem since the industrial
+applications are resource-critical, time-critical, session-less, and
+safety-critical. These requirements make existing end-to-end
+transport mechanisms unsuitable for use in the industry verticals
+that require control-systems type communication. This paper
+proposes a lightweight, connection-less, and reliable protocol
+called TinTin. It utilizes the in-network capabilities to compensate
+for end device constraints. The mechanisms adopted in TinTin
+aim to reduce the communication overheads associated with well-
+known connection-oriented protocols. This paper discusses the
+design considerations of TinTin in detail and presents an early
+stage proof-of-concept implementation of TinTin with New IP.
+
+##### Authors: Kiran Makhijani (Futurewei), Bhaskar Kataria, Shashank D., Deepta Devkota, Mohit Tahiliani (NITK, Surathkal).
 
 #### Supporting Dynamic Secure Interdomain Routing
 
