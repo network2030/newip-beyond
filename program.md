@@ -29,7 +29,9 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 ### Session 1 (Keynote)
 #### 09:30 AM - 10:15 AM &emsp;&emsp;*Welcome and Keynote*
+
 <span style="color:#FA5E8B"> Session Chair: Kiran Makhijani</span>
+
 |9:30 |Opening & Welcome	Note by Chairs (10 minutes)|
 |9:40:| Keynote: __A Variegated Study of 5G Services: Challenges, Opportunities, and Application Innovations.__ |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
