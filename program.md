@@ -29,8 +29,8 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 ### Session 1 (Keynote)
 #### 09:30 AM - 10:15 AM &emsp;&emsp;*Welcome and Keynote*
-
-|9:30 |Opening & Welcome	Note by Chairs (10 minutes)	|
+<span style="color:#FA5E8B"> Session Chair: Kiran Makhijani</span>
+|9:30 |Opening & Welcome	Note by Chairs (10 minutes)|
 |9:40:| Keynote: __A Variegated Study of 5G Services: Challenges, Opportunities, and Application Innovations.__ |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
 
@@ -38,12 +38,14 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 ---
 
 ### Session 2 (Technical Papers)
-#### 10:45 AM - 12:30 PM&emsp;&emsp; *New  In-network services*
+#### 10:45 AM - 12:30 PM&emsp;&emsp; *New  In-network services* 
+
+<span style="color:#FA5E8B"> Session Chair: Nirmala Shenoy</span>	
 
 |10:45 | Behavior-decoupled Labeling Mechanism in Generalized SRv6<br>Authors: W. Wu, <span style="color:#FA5E8B">S. Li(remote)</span>, A. Pei, T. Huang|
-|11:10 |Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications<br> Authors: <span style="color:#FA5E8B">X. Ren </span>, J. Ji, L. Cai
+|11:10 |Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications<br> Authors: <span style="color:#FA5E8B">X. Ren (remote)</span>, J. Ji, L. Cai
 |11:35 	|TinTin: Tiny In-Network Transport for High Precision INdustrial Communication<br>	Authors: K. Makhijani, B. Kataria, S. D., D. Devkota, <span style="color:#FA5E8B">M. Tahiliani (remote)</span> |
-|11:55 	|Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN)<br>Authors: <span style="color:#FA5E8B">I. Kunze</span>, D. Trossen, K. Wehrle
+|12:00 	|Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN)<br>Authors: <span style="color:#FA5E8B">I. Kunze</span>, D. Trossen, K. Wehrle
 
 #### &emsp;12:30 PM - 13:30 PM &emsp;&emsp;Lunch (60 minutes)
 ---
@@ -51,7 +53,9 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 ### Session 3 (Technical Papers)
 #### 13:30 PM - 14:45 PM &emsp;&emsp;*New  Routing Paradigms*
 
-|13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub</span>, M. Lamali, D. Magoni|
+<span style="color:#FA5E8B"> Session Chair: Ike Kunze</span>	
+
+|13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub (remote)</span>, M. Lamali, D. Magoni|
 |13:55 | New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
 |14:20 | Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
 
