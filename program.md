@@ -32,8 +32,8 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 <span style="color:#FA5E8B"> Session Chair: Kiran Makhijani</span>
 
-|9:30 |Opening & Welcome	Note by Chairs (10 minutes)|
-|9:40:| Keynote: __A Variegated Study of 5G Services: Challenges, Opportunities, and Application Innovations.__ |
+|9:30 |[Opening & Welcome Note by Chairs (10 minutes)](./presentations/W_S1_Welcome.pdf)|
+|9:40:| Keynote: __A Variegated Study of 5G Services: Challenges, Opportunities, and Application Innovations.__ [presentation](./presentations/W_S1_Keynote_Qian.pdf) |
 | | <span style="color:#FA5E8B">Dr. Feng Qian</span>, Associate Professor, University of Minnesota|
 
 #### &emsp;10:15-10:45 AM &emsp;&emsp;Coffee Break (30 minutes)
@@ -44,10 +44,10 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 <span style="color:#FA5E8B"> Session Chair: Nirmala Shenoy</span>	
 
-|10:45 | Behavior-decoupled Labeling Mechanism in Generalized SRv6<br>Authors: W. Wu, <span style="color:#FA5E8B">S. Li(remote)</span>, A. Pei, T. Huang|
-|11:10 |Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications<br> Authors: <span style="color:#FA5E8B">X. Ren (remote)</span>, J. Ji, L. Cai
-|11:35 	|TinTin: Tiny In-Network Transport for High Precision INdustrial Communication<br>	Authors: K. Makhijani, B. Kataria, S. D., D. Devkota, <span style="color:#FA5E8B">M. Tahiliani (remote)</span> |
-|12:00 	|Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN)<br>Authors: <span style="color:#FA5E8B">I. Kunze</span>, D. Trossen, K. Wehrle
+|10:45 | Behavior-decoupled Labeling Mechanism in Generalized SRv6<br>Authors: W. Wu, <span style="color:#FA5E8B">S. Li(remote)</span>, A. Pei, T. Huang [presentation](./presentations/W_S2_Sijia.pdf)|
+|11:10 |Delay Laxity-Based Scheduling with Double-Deep Q-Learning for Time-Critical Applications<br> Authors: <span style="color:#FA5E8B">X. Ren (remote)</span>, J. Ji, L. Cai [presentation](./presentations/W_S2_REN.mp4)|
+|11:35 	|TinTin: Tiny In-Network Transport for High Precision INdustrial Communication<br>	Authors: K. Makhijani, B. Kataria, S. D., D. Devkota, <span style="color:#FA5E8B">M. Tahiliani (remote)</span>  [presentation](./presentations/W_S2_Mohit.pdf)|
+|12:00 	|Evolving the End-to-End Transport Layer in Times of Emerging Computing In The Network (COIN)<br>Authors: <span style="color:#FA5E8B">I. Kunze</span>, D. Trossen, K. Wehrle [presentation](./presentations/W_S2_Kunze.pptx)|
 
 #### &emsp;12:30 PM - 13:30 PM &emsp;&emsp;Lunch (60 minutes)
 ---
@@ -57,9 +57,9 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 
 <span style="color:#FA5E8B"> Session Chair: Ike Kunze</span>	
 
-|13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub (remote)</span>, M. Lamali, D. Magoni|
-|13:55 | New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen|
-|14:20 | Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span>|
+|13:30 	|Semiring Algebraic Structure for Metarouting with Automatic Tunneling<br> Authors: <span style="color:#FA5E8B">N. Mouhoub (remote)</span>, M. Lamali, D. Magoni [presentation](./presentations/W_S3_Mouhoub.pdf)|
+|13:55 | New IP based semantic addressing and routing for LEO satellite networks<br> Authors: <span style="color:#FA5E8B">L. Han</span>, A. Retana, C. Westphal, R. Li, T. Jiang, M. Chen [presentation](./presentations/W_S3_Han.pdf)|
+|14:20 | Supporting Dynamic Secure Interdomain Routing<br> Authors: L. Schulz, E. Moghadam, J. García-Pardo, D. Hausheer, <span style="color:#FA5E8B">K. Calvert</span> [presentation](./presentations/W_S3_Calvert.pdf)|
 
 #### 14:45 PM - 15:15 PM &emsp;&emsp;Coffee Break (30 minutes)
 
@@ -67,8 +67,12 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 #### 15:15 PM - 16:00 PM &emsp; &emsp;*Panel Discussion*
 
 | Topic | <span style="font-size: large; color:#9B032F"> Way Forward to 5G/6G: What is missing in <br> Network Protocols and Technologies?</span> |
-|	Panelists| <span style="color:#FA5E8B"><B>Alvaro Retana, </B></span>Futurewei, USA, (Moderator)<br> <span style="color:#FA5E8B">Ken Calvert</span>, UK, KY, USA<br> <span style="color:#FA5E8B">Nirmala Shenoy</span>, RIT, NY, USA<br>	<span style="color:#FA5E8B">Marina Thottan</span>, Amazon, USA (remote participation)<br><span style="color:#FA5E8B">Richard Li</span>, Futurewei, CA, USA|
-
+|Panelists| 
+<span style="color:#FA5E8B"><B>Alvaro Retana, </B></span>Futurewei, USA, (Moderator)<br> 
+<span style="color:#FA5E8B">Ken Calvert</span>, UK, KY, USA <a href="./presentations/W_S4_Calvert.pdf">presentation</a> <br> 
+<span style="color:#FA5E8B">Nirmala Shenoy</span>, RIT, NY, USA <a href="./presentations/W_S4_Shenoy.pdf">presentation</a> <br>
+<span style="color:#FA5E8B">Marina Thottan</span>, Amazon, USA (remote participation)<br>
+<span style="color:#FA5E8B">Richard Li</span>, Futurewei, CA, USA <a href="./presentations/W_S4_Richard.pdf">presentation</a> |
 #### 4:15 |&emsp; &emsp; Closing
 
 ---
