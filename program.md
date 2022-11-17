@@ -66,13 +66,15 @@ The __New IP and Beyond__ workshop aims to discuss research challenges in fixed-
 ### Session 4 (Panel)
 #### 15:15 PM - 16:00 PM &emsp; &emsp;*Panel Discussion*
 
-| Topic | <span style="font-size: large; color:#9B032F"> Way Forward to 5G/6G: What is missing in <br> Network Protocols and Technologies?</span> |
-|Panelists| 
-<span style="color:#FA5E8B"><B>Alvaro Retana, </B></span>Futurewei, USA, (Moderator)<br> 
-<span style="color:#FA5E8B">Ken Calvert</span>, UK, KY, USA <a href="./presentations/W_S4_Calvert.pdf">presentation</a> <br> 
-<span style="color:#FA5E8B">Nirmala Shenoy</span>, RIT, NY, USA <a href="./presentations/W_S4_Shenoy.pdf">presentation</a> <br>
-<span style="color:#FA5E8B">Marina Thottan</span>, Amazon, USA (remote participation)<br>
-<span style="color:#FA5E8B">Richard Li</span>, Futurewei, CA, USA <a href="./presentations/W_S4_Richard.pdf">presentation</a> |
+| <span style="font-size: large; color:#9B032F"> Way Forward to 5G/6G: What is missing in Network Protocols and Technologies?</span> |
+
+| Panelists |
+|<span style="color:#FA5E8B"><B>Alvaro Retana, </B></span>Futurewei, USA, (Moderator)<br>|
+| <span style="color:#FA5E8B">Ken Calvert</span>, UK, KY, USA <a href="./presentations/W_S4_Calvert.pdf">presentation</a> <br>|
+| <span style="color:#FA5E8B">Nirmala Shenoy</span>, RIT, NY, USA <a href="./presentations/W_S4_Shenoy.pptx">presentation</a> <br>|
+| <span style="color:#FA5E8B">Marina Thottan</span>, Amazon, USA (remote participation)<br>|
+| <span style="color:#FA5E8B">Richard Li</span>, Futurewei, CA, USA <a href="./presentations/W_S4_Richard.pdf">presentation</a> |
+
 #### 4:15 |&emsp; &emsp; Closing
 
 ---
