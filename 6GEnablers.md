@@ -9,13 +9,13 @@ title: First Workshop on 6G Enablers (Satellite, Qualitative and Semantic Commun
     <img src="assets/img/icnp_logo.png" width='60' height='YYY' alt="">
   </div>
   <div>
-    <h1 style="text-align: center; padding-right:40px; line-height:1em;">1st Workshop on New IP and Beyond</h1>
+    <h1 style="text-align: center; padding-right:40px; line-height:1em;">First Workshop on 6G Enablers: Satellite, Qualitative and Semantic Communications</h1>
   </div>
 </div>
 
 <h4 style="text-align: center;line-height:2em;">Organized by: IEEE ICNP 2023</h4>
-<h5 style="text-align: center; line-height:0em;">The 30th IEEE International Conference on Network Protocols</h5>
-<h6 style="text-align: center;line-height:0em;">Lexington, Kentucky, USA, October 30-November 2, 2022</h6>
+<h5 style="text-align: center; line-height:0em;">The 31st IEEE International Conference on Network Protocols</h5>
+<h6 style="text-align: center;line-height:0em;">Reykjavik, Iceland, October 10-13, 2023</h6>
 
 
 <h2 style="text-align: center;">CALL FOR PAPERS</h2>
