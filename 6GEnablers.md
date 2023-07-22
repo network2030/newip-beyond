@@ -42,6 +42,7 @@ title: First Workshop on 6G Enablers (Satellite, Qualitative and Semantic Commun
 
 <h2 style="text-align: center;">CALL FOR PAPERS</h2>
 
+### Call for Papers
 Non-Terrestrial Network (NTN) integration is an ambitious mission in 3GPP to extend the Internet to sky and outer space. Currently, 
 NTN has been widely accepted as a major roadblock for 6G. One of the goals of 6G is to enable large-scale Low Earth Orbit (LEO) 
 satellite constellations to form different moving networks that can be integrated with the Internet. In the future, LEO satellite 
