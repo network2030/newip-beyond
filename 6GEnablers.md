@@ -17,6 +17,26 @@ title: First Workshop on 6G Enablers (Satellite, Qualitative and Semantic Commun
 <h5 style="text-align: center; line-height:0em;">The 31st IEEE International Conference on Network Protocols</h5>
 <h6 style="text-align: center;line-height:0em;">Reykjavik, Iceland, October 10-13, 2023</h6>
 
+<h2 style="text-align: center;">Keynote Speakers Announced</h2>
+
+### Keynote 1: Professor Walid Saad, Virginia Tech
+
+|![image-walid](./assets/img/walid.webp){:width="950px"}*Walid Saad (S’07, M’10, SM’15, F’19)* | *Bio* Prof. Saad received his Ph.D. degree from the University of Oslo, Norway, in 2010. He is currently a Professor at the Department of Electrical and Computer Engineering at Virginia Tech, where he leads the Network sciEnce, Wireless, and Security (NEWS) laboratory. He is also the Next-G Wireless Faculty Lead at Virginia Tech’s Innovation Campus. His research interests include wireless networks (5G/6G/beyond), machine learning, game theory, security, UAVs, semantic communications, cyber-physical systems, and network science. Dr. Saad is a Fellow of the IEEE. He is also the recipient of the NSF CAREER award in 2013, the AFOSR summer faculty fellowship in 2014, and the Young Investigator Award from the Office of Naval Research (ONR) in 2015. He was the (co-)author of eleven conferences' best paper awards at IEEE WiOpt in 2009, ICIMP in 2010, IEEE WCNC in 2012, IEEE PIMRC in 2015, IEEE SmartGridComm in 2015, EuCNC in 2017, IEEE GLOBECOM (2018 and 2020), IFIP NTMS in 2019, IEEE ICC (2020 and 2022). He is the recipient of the 2015 and 2022 Fred W. Ellersick Prize from the IEEE Communications Society  and of the IEEE Communications Society Marconi Prize Award in 2023. He was also a co-author of the papers that received the IEEE Communications Society Young Author Best Paper award in 2019, 2021, and 2023. Other recognitions include the 2017 IEEE ComSoc Best Young Professional in Academia award, the 2018 IEEE ComSoc Radio Communications Committee Early Achievement Award, and the 2019 IEEE ComSoc Communication Theory Technical Committee Early Achievement Award. From 2015-2017, Dr. Saad was named the Stephen O. Lane Junior Faculty Fellow at Virginia Tech and in 2017, he was named College of Engineering Faculty Fellow. He received the Dean’s Award for Research Excellence from Virginia Tech in 2019. He was also an IEEE Distinguished Lecturer in 2019-2020.  He has been annually listed in the Clarivate Web of Science Highly Cited Researcher List since 2019. He currently serves as an Area Editor for the IEEE Transactions on Network Science and Engineering and the IEEE Transactions on Communications. He is the Editor-in-Chief for the IEEE Transactions on Machine Learning in  Communications and Networking.|
+
+<span style="font-size: large; color:#9B032F"> Less Data, More Knowledge: Reasoning Foundations of Semantic Communication Networks </span>
+
+*Abstract:* For decades, the wireless link between transmitter and receiver has been seen as a mere  bit pipe whose goal is to faithfully reconstruct the exact transmitted signal at the receiver without paying attention to the meaning or effect of the source message. This classical design may excel in delivering high communication rates and low bit-level errors, but its limitations become apparent when faced with the challenge of transmitting massive data streams for connected intelligence, Internet of Senses, or holographic applications, where the message intent and effectiveness must be considered, and extremely stringent requirements for reliability and latency must be met, often simultaneously. In this regard, the concept of semantic communication, in which the meaning of the source messages is incorporated in the design of a communication link, has recently emerged as a promising solution. However, despite a recent surge of efforts in this area, remarkably, the research landscape is still limited to basic constructs in which even the very definition of “semantics” remains ambiguous. In this talk, we seek to remove this ambiguity and present a bold, forward-looking vision of how to build and design semantic communication networks from the ground up. In particular, we opine that major breakthroughs in semantic communications can only be made by equipping the communication nodes with the capability to exploit information semantics at a fundamental level (from the data structure and relationships) which enables them to build a knowledge base, reason on their data, and engage in the form of communication using a machine language, similar to human conversation, with the capability to deduce meaning from the data in a manner akin to human reasoning. Towards this goal, we introduce our holistic vision for semantic communications that is firmly grounded in rigorous artificial intelligence (AI) and causal reasoning foundations, with the potential to revolutionize the way information is modeled, transmitted, and processed in communication systems. We show how, by embracing semantic communication through our proposed vision, we can usher in a new era of knowledge-driven, reasoning wireless networks that are more sustainable and resilient than today’s data-driven, knowledge-agnostic networks. We also shed light on how this framework can create AI-native networks – a key requirement of future wireless systems. As a key step towards enabling this paradigm shift, we present our recent key results in this area, with foundations in AI, theory of mind, and game theory, that showcase how the proposed approach for semantic communications can reduce the volume of data circulating in a network while improving reliability, two critical requirements for emerging wireless services, such as connected intelligence and digital twins. We conclude with a discussion of future opportunities in this exciting area.
+
+#### Keynote 2: Professor Shangguang Wang, Beijing University of Posts and Telecommunications
+
+|![image-wang](./assets/img/wang.webp){:width="950px"}*Shangguang Wang* | *Bio* Shangguang Wang is a professor at the School of Computer Science, Beijing University of Posts and Telecommunications, China. He is the founder&chief scientist of Tiansuan Constellation. He is also Deputy Dean at the School of Computer Science, Deputy Dean at Shenzhen Research Institute, Deputy Director at SKL of Networking and Switching Technology, and Director at Star Network and Intelligence Computing Laboratory.
+
+His research interests include service computing, mobile edge computing, cloud computing, and satellite computing. He is currently serving as chair of the IEEE Technical Community on Services Computing(TCSVC) and vice chair of the IEEE Technical Community on Cloud Computing. He also served as general chair or program chair of 10+ IEEE conferences and advisor/associate editor of several journals such as the Journal of Cloud Computing, Journal of Software: Practice and Experience, International Journal of Web and Grid Services, China Communications, and so on. He is a senior member of the IEEE and a Fellow of the IET.|
+
+<span style="font-size: large; color:#9B032F"> Title: TBA </span>
+
+
+*Abstract: TBD*
 
 <h2 style="text-align: center;">CALL FOR PAPERS</h2>
 
@@ -77,16 +97,7 @@ Application of AI to a wide variety of satellite communication aspects
 
 ## Submission Instructions
 
-Please submit your paper using workshop's  [NIB2022 HotCRP link](https://newipandbeyond22.hotcrp.com/)
-Submissions must be original, unpublished work, and not under consideration at another conference or journal. 
-Paper submissions should adhere to the IEEE Conference formatting requirements with double 
-column and the font size must be 10 points. Submitted papers must be written in English and 
-have no more than Six (6) pages in double-column format with standard margins, two (2) additional 
-pages may be permitted with over-length fee of $100/page. Papers must include author’s names and 
-affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected 
-to present their papers at the workshop onsite. If there are situations that prevent the authors 
-from attending the workshop, the authors must discuss with the chairs case-by-case and zoom meeting 
-might be provided for online presenters.
+Submissions must be original, unpublished work, and not under consideration at another conference or journal. Paper submissions should adhere to the IEEE Conference formatting requirements with double columns and the font size must be 10 points. Submitted papers must be written in English and have no more than Six (6) pages in double-column format with standard margins, two (2) additional pages may be permitted with over-length fee of $100/page. Papers must include author’s names and affiliations for single-blind peer reviewing by the PC. Authors of accepted papers are expected to present their papers at the workshop onsite. If there are situations that prevent the authors from attending the workshop, the authors must discuss with the chairs case-by-case, and Zoom meetings might be provided for online presenters.
 
 The IEEE template [available here](https://www.ieee.org/conferences/publishing/templates.html)
 
@@ -94,8 +105,7 @@ The IEEE template [available here](https://www.ieee.org/conferences/publishing/t
 
 Official ICNP 2023 Submission page: https://sqsc23.hotcrp.com
 
-## Programme Committe
-
+## Programme Committee
 
 #### General Co-Chairs
 
@@ -127,7 +137,6 @@ Official ICNP 2023 Submission page: https://sqsc23.hotcrp.com
 - Yong Xiao, Huazhong University of Science and Technology, China
 - Nirmala Shenoy, Rochester Institute of Technology, U.S.A
 - Jiang Liu, Beijing University of Posts and Telecommunications, China
-
 
 ---
 
