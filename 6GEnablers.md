@@ -72,6 +72,7 @@ Application of AI to a wide variety of satellite communication aspects
 - In-time guarantee by Qualitative and Semantic Communication
 - Energy consumption reduction by Qualitative and Semantic Communication
 - Integration of Qualitative and Semantic Communication with conventional communication systems
+
 ----
 
 ## Submission Instructions
