@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-#### CFP: 1st Workshop on 6G Enablers (colocated with ICNP)
+####  Workshop on 6G Enablers (colocated with ICNP)
 The *Call for Papers* was  closed for 'first 6G Enablers' workshop in July'23. It is organized by IEEE. 
   The 31st IEEE International Conference on Network Protocols (ICNP 2023)  and will be held on October 30-November 2, 2023.
 
@@ -14,9 +14,8 @@ More information about the conference at [ICNP-23](https://icnp23.cs.ucr.edu)
 
 ---
 
-#### CFP: Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum (IIoT-Nets)(colocated with ACM Sigcomm)
-The *Call for Papers* was closed for 'IIoT-NETs' workshop in June'23. It is organized by ACM Sigcomm 
-The 'ACM Sigcomm 2023'  will be held on September 10-14, 2023.
+####  Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum (IIoT-Nets)(colocated with ACM Sigcomm)
+ACM Sigcomm organizes the 'IIoT-NETs' workshop. It will be held on September 10-14, 2023.
 
 ##### [IIoT-NETS'23: Program](https://conferences.sigcomm.org/sigcomm/2023/workshop-iiotnets.html) 
 
@@ -24,7 +23,7 @@ More information about the conference at [ACM SIGCOMM-23](https://conferences.si
 
 ---
 
-#### CFP: 1st Workshop on New IP and Beyond (colocated with ICNP)
+#### Workshop on New IP and Beyond (colocated with ICNP)
 The *Call for Papers* is now open for 'New IP and Beyond' workshop. It is organized by IEEE 
   The 30th IEEE International Conference on Network Protocols (ICNP 2022)  and will be held on October 30-November 2, 2022.
 
@@ -49,3 +48,4 @@ The 'ACM Sigcomm 2018'  will be held from August 20, 2018.
 
 ##### [NEAT-18: Program](https://conferences.sigcomm.org/sigcomm/2018/workshop-neat.html) 
 
+---
